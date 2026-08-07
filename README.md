@@ -36,3 +36,7 @@ The application handles large texts by splitting them into chunks and provides s
 <img width="943" height="936" alt="Screenshot 2025-09-09 182227" src="https://github.com/user-attachments/assets/32970e3c-3f2f-4947-8c6d-531df1968623" />
 <img width="944" height="938" alt="Screenshot 2025-09-09 182315" src="https://github.com/user-attachments/assets/5905b77a-0202-44e3-9009-98ad8bf38643" />
 <img width="938" height="934" alt="Screenshot 2025-09-09 182359" src="https://github.com/user-attachments/assets/69c68c30-05d4-438d-96d2-f33fcf688bd8" />
+
+
+<!-- AUTO UPDATE -->
+Last maintenance: 2026-08-07 13:12 UTC
